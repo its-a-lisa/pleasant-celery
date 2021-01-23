@@ -9,9 +9,6 @@ sections:
     title: TBD
     content: "# Meetings\n\nCommunity meetings for OpenControl are just starting up.  Get the meeting information and find out more about the\_OpenControl Community Repo. Meetings are scheduled on Google Calendar. \n"
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
