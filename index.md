@@ -6,9 +6,10 @@ sections:
     image: images/022-network.png
     image_alt: App preview
     title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      OpenControl will be a set of tools that will finally allow compliance to
+      be directly incorporated into a continuous integration and deployment
+      framework.
     actions:
       - label: Learn More
         url: /features
