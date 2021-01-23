@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/022-network.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: 'Security, not obscurity'
     content: >
       OpenControl will be a set of tools that will finally allow compliance to
       be directly incorporated into a continuous integration and deployment
