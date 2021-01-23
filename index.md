@@ -1,6 +1,19 @@
 ---
 title: Home
 sections:
+  - section_id: hero
+    type: section_hero
+    image: images/022-network.png
+    image_alt: App preview
+    title: 'Security, not obscurity'
+    content: >
+      OpenControl is a place for practitioners who spend their time auditing,
+      assessing, and maintaining information systems according to specified
+      controls.
+    actions:
+      - label: Learn More
+        url: /features
+        style: primary
   - section_id: reviews
     type: section_reviews
     background: white
@@ -22,19 +35,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: hero
-    type: section_hero
-    image: images/022-network.png
-    image_alt: App preview
-    title: 'Security, not obscurity'
-    content: >
-      OpenControl is a place for practitioners who spend their time auditing,
-      assessing, and maintaining information systems according to specified
-      controls.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
   - section_id: features
     type: section_features
     background: gray
