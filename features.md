@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: TBD
+    title: ''
     content: "# Meetings\n\nCommunity meetings for OpenControl are just starting up.  Get the meeting information and find out more about the\_OpenControl Community Repo. Meetings are scheduled on Google Calendar.\n\n\n\n# Source Code\n\nBrowse the source code for various projects that form the OpenControl.\n\nVisit GitHub Now\n\n\n\n### Mailing List\n\nStay up to date with the latest announcements and discussions about  OpenControl.\n\nSubscribe to the Mailing List\n"
     actions: []
   - section_id: call-to-action
