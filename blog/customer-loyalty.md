@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: 'GoComply with OSCAL & FedRAMP :: Introduction to OpenControl'
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: >-
