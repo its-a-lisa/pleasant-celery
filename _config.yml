@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/logo-alt.svg
+      image: images/thoughtful-goose.png
       image_url: /
       image_alt: Footer logo
       content: Stackbit theme demo
