@@ -7,9 +7,9 @@ sections:
     image_alt: App preview
     title: 'Security, not obscurity'
     content: >
-      OpenControl will be a set of tools that will finally allow compliance to
-      be directly incorporated into a continuous integration and deployment
-      framework.
+      OpenControl is a place for practitioners who spend their time auditing,
+      assessing, and maintaining information and communication technology
+      according to specified controls.
     actions:
       - label: Learn More
         url: /features
