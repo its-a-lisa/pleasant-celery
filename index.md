@@ -8,8 +8,8 @@ sections:
     title: 'Security, not obscurity'
     content: >
       OpenControl is a place for practitioners who spend their time auditing,
-      assessing, and maintaining information and communication technology
-      according to specified controls.
+      assessing, and maintaining information systems according to specified
+      controls.
     actions:
       - label: Learn More
         url: /features
