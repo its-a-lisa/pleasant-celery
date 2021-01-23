@@ -14,6 +14,27 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+  - section_id: reviews
+    type: section_reviews
+    background: white
+    title: Community
+    subtitle: >-
+      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+      semper libero id sodales. 
+    reviews:
+      - author: About
+        content: >-
+          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - author: Contribute
+        content: >-
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          dui sollicitudin, vel posuere justo laoreet.
+      - author: Code of Conduct
+        content: >-
+          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: features
     type: section_features
     background: gray
@@ -63,27 +84,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Community
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    reviews:
-      - author: About
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Contribute
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Code of Conduct
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
