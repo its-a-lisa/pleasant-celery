@@ -8,10 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: TBD
     content: "# Meetings\n\nCommunity meetings for OpenControl are just starting up.  Get the meeting information and find out more about the\_OpenControl Community Repo. Meetings are scheduled on Google Calendar. \n"
-    actions:
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
