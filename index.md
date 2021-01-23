@@ -22,7 +22,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: Community
         image: images/009-email.png
         image_alt: App preview on a phone and tablet
         content: >
