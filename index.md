@@ -91,12 +91,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    faq_items: []
-    type: section_faq
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 layout: landing
