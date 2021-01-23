@@ -25,10 +25,10 @@ sections:
       - title: The Best Feature of Your Services
         image: images/009-email.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Anyone who wants to can participate as a member of the community to
+          share tools, discuss topics and advance the Governance, Risk, and
+          Compliance out in the open with others who are also in the field. 
         actions:
           - label: Learn More
             url: /features
