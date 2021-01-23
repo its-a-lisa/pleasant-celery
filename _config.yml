@@ -1,20 +1,19 @@
-title: Azimuth
+title: OpenControl
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
 base_font: nunito-sans
-palette: blue
+palette: orange
 header:
-  logo_img: images/logo.svg
   logo_img_alt: Logo
   has_nav: true
   nav_links:
     - label: Home
       url: /
       style: link
-    - label: Features
+    - label: Gather
       url: /features
       style: link
     - label: Pricing
@@ -26,10 +25,11 @@ header:
     - label: Sign Up
       url: /signup
       style: primary
+  logo_img: images/oclogo_small.png
 footer:
   sections:
     - type: footer_text
-      image: images/logo-alt.svg
+      image: images/thoughtful-goose.png
       image_url: /
       image_alt: Footer logo
       content: Stackbit theme demo
@@ -83,9 +83,6 @@ footer:
       submit_label: Subscribe
   has_nav: true
   nav_links:
-    - label: Terms of Service
-      url: /terms-of-service
-      style: link
     - label: Privacy Policy
       url: /privacy-policy
       style: link

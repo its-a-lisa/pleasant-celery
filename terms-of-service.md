@@ -1,8 +1,45 @@
 ---
-title: Terms of Service
+title: Code of Conduct
 layout: page
 ---
+We are a group of technologists, government staff, contractors, and others in regulated fields passionately pursuing Compliance-as-Code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+We are developing a community and tools necessary to align security assessments and authorizations with modern, continuous software development and delivery.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+We extend to you an invitation to join our community, provided you agree to the following terms.
+
+## Respectful and professional discourse
+
+At all times you will engage in conversations that are respectful of other members – and third parties – and professional in tone. We are professionals pursuing professional goals. Respect and professionalism include civil conversation, allowing others opinions, and avoiding personal disparaging comments, and contributing usefully to the community topic: Compliance-as-Code.
+
+Always respect a designated moderator.
+
+## Stay on the target topic
+
+We highly encourage you to stay on the target topic of each Slack channel, GitHub issue, etc. This will help keep focus, efficiency, and readability.
+
+## Encourage participation
+
+Say things, ask questions and respond! The more participation, the better.
+
+## Appropriate, minimal personal/business promotion
+
+It’s fine to let others in the community know about professional events, positions, new software releases, and other developments that are highly relevant to the OpenControl and Compliance-as-Code community.
+
+It’s also cool to share and celebrate accomplishments and support for community members in their achievement of some milestone, life-event, or other leveling-up. (It’s also OK to professionally rally the community in support of community members.)
+
+It is not fine to spam our communication channels with multiple announcements, multiple times each week.
+
+Promotions for things not related OpenControl and Compliance-as-Code are restricted to appropriately designated Slack channels.
+
+## Acceptance the organizers can update the conduct code
+
+*This policy is a “living” document, and subject to refinement and expansion in the future.*
+
+## Respect for diversity
+
+OpenControl is a place for everybody regardless of race, religion, gender, identity, sexual orientation, technical ability, or employment situation.
+
+## Getting help
+
+If you are experiencing technical problems or nontechnical problems (like harassment) contact Greg Elin (@gregelin) or another moderator on Slack.

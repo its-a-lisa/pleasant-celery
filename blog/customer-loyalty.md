@@ -1,11 +1,9 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: 'GoComply with OSCAL & FedRAMP :: Introduction to OpenControl'
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
-date: '2019-04-23'
+excerpt: "This is the first post of the\_GoComply series\_that introduces open source pipeline to produce and process OSCAL and FedRAMP documents."
+date: ''
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
