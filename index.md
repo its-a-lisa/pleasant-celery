@@ -53,10 +53,10 @@ sections:
       - title: Community
         image: images/049-browser.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Anyone who wants to can participate as a member of the community to
+          share tools, discuss topics and advance the Governance, Risk, and
+          Compliance out in the open with others who are also in the field.
         actions:
           - label: Learn More
             url: /features
