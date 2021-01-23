@@ -25,6 +25,7 @@ header:
     - label: Sign Up
       url: /signup
       style: primary
+  logo_img: images/oclogo.png
 footer:
   sections:
     - type: footer_text
