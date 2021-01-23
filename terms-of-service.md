@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Code of Conduct
 layout: page
 ---
 
