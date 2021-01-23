@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Community
+      - title: Gather
         image: images/049-browser.png
         image_alt: App user profile preview
         content: >
