@@ -7,17 +7,11 @@ no_index: false
 sections:
   - section_id: Members
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ##### The Vendors and Operators below have, unofficially and without any
+      legally-binding commitment, endorsed the principles of Continuous
+      Authorization, and have agreed to collaborate on the development of the
+      OpenControl schema, tools and best practices.
     image_alt: lorem-ipsum
     background: gray
     actions: []
