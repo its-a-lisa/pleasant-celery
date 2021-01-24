@@ -42,7 +42,7 @@ sections:
             url: 'https://github.com/govready/govready/'
             style: secondary
       - title: 'Docker, Inc.'
-        subtitle: lorem-ipsum
+        subtitle: Docker Datacenter
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
