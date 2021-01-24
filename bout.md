@@ -28,7 +28,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - label: Learn More
-            url: /signup
+            url: /partners
             style: secondary
       - title: ''
         subtitle: ''
