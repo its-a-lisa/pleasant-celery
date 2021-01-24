@@ -94,7 +94,7 @@ sections:
             type: action
           - label: CivicActions
             url: 'http://www.civicactions.com'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
