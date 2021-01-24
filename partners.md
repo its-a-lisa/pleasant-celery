@@ -12,7 +12,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: 'Pivotal, Inc.'
-        subtitle: aFor small businesses
+        subtitle: Pivotal Cloud Foundry
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
