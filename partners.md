@@ -93,7 +93,7 @@ sections:
             no_follow: false
             type: action
           - label: CivicActions
-            url: lorem-ipsum
+            url: 'http://www.civicactions.com'
             style: link
             has_icon: false
             icon: arrow-left
