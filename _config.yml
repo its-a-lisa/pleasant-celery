@@ -16,6 +16,9 @@ header:
     - label: Community
       url: /features
       style: link
+    - label: Philosophy
+      url: /style-guide
+      style: link
     - label: Blog
       url: blog
       style: link
@@ -25,9 +28,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Philosophy
-      url: /style-guide
-      style: link
     - label: Sign Up
       url: /signup
       style: primary
