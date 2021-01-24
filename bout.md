@@ -12,7 +12,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: pricing
+  - section_id: members
     type: section_pricing
     background: gray
     title: OpenControl Members
