@@ -86,40 +86,6 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Operator Members
-        subtitle: ''
-        price: ''
-        details: ''
-        highlight: false
-        actions:
-          - label: Pivotal Web Services
-            url: 'https://run.pivotal.io/'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: Cloud.gov
-            url: 'https://cloud.gov/'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: OpenShift Online
-            url: 'https://www.openshift.com/'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
   - section_id: lorem-ipsum
     title: Consultancy Service Partners
     subtitle: ''
