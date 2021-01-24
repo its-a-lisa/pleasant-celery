@@ -25,7 +25,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: Join!
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
