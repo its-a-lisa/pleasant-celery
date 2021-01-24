@@ -16,7 +16,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
-        price: $5/m
+        price: Members
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
