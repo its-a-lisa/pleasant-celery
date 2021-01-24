@@ -117,7 +117,7 @@ sections:
             no_follow: false
             type: action
           - label: NIST DevSecOps
-            url: lorem-ipsum
+            url: 'https://csrc.nist.gov/Projects/devsecops'
             style: link
             has_icon: false
             icon: arrow-left
