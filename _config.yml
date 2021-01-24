@@ -13,15 +13,39 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Gather
+    - label: FAQ
+      url: faq
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
+    - label: Partners
+      url: partners
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
+    - label: Community
       url: /features
       style: link
-    - label: Pricing
-      url: /pricing
-      style: link
-    - label: Style Guide
+    - label: Philosophy
       url: /style-guide
       style: link
+    - label: Blog
+      url: blog
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
     - label: Sign Up
       url: /signup
       style: primary
