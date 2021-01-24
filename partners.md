@@ -176,7 +176,7 @@ sections:
     pricing_plans:
       - title: ''
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
