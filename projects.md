@@ -64,26 +64,7 @@ sections:
     title: ''
     subtitle: ''
     background: gray
-    features:
-      - title: Compliance Masonary
-        content: >
-          Compliance Masonry simplifies the process of certification
-          documentation by providing:
-
-
-          *   a data store for certifications (ex FISMA), standards (ex
-          NIST-800-53), and the individual system components (ex AWS-EC2).
-
-
-          *   a way for government projects to edit existing files and also add
-          new control files for their applications and organizations.
-
-
-          *   a pipeline for generating clean and standardized certification
-          documentation.
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
+    features: []
     type: section_features
   - section_id: lorem-ipsum
     title: Related non-OpenControl Projects
