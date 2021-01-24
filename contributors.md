@@ -115,7 +115,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: GovReady BPC
+          - label: Noah Kunin
             url: 'https://govready.com/'
             style: secondary
             has_icon: false
