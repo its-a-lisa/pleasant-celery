@@ -10,9 +10,6 @@ header:
   logo_img_alt: Logo
   has_nav: true
   nav_links:
-    - label: Home
-      url: /
-      style: link
     - label: About
       url: about
       style: link
