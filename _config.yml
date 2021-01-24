@@ -13,6 +13,15 @@ header:
     - label: Home
       url: /
       style: link
+    - label: About
+      url: about
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
     - label: FAQ
       url: faq
       style: link
@@ -39,15 +48,6 @@ header:
       style: link
     - label: Blog
       url: blog
-      style: link
-      has_icon: false
-      icon: arrow-left
-      icon_position: left
-      new_window: false
-      no_follow: false
-      type: action
-    - label: About
-      url: about
       style: link
       has_icon: false
       icon: arrow-left
