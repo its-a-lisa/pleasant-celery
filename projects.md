@@ -73,7 +73,7 @@ sections:
         actions:
           - label: Software Bill of Materials (SBOM)
             url: 'https://www.ntia.doc.gov/SoftwareTransparency'
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
