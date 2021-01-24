@@ -136,7 +136,7 @@ sections:
             no_follow: false
             type: action
           - label: Cloud.gov
-            url: lorem-ipsum
+            url: 'https://cloud.gov/'
             style: link
             has_icon: false
             icon: arrow-left
