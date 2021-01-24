@@ -8,7 +8,7 @@ sections:
   - section_id: Members
     title: Projects
     content: |
-      ##### Projects done to contribute towards the mission of OpenControl
+      ##### Projects that contribute towards the mission of OpenControl.
     image_alt: lorem-ipsum
     background: gray
     actions: []
@@ -24,7 +24,7 @@ sections:
         price: ''
         details: ''
         actions:
-          - label: Go to repo
+          - label: Learn More
             url: 'https://github.com/opencontrol/cf-compliance'
             style: primary
         highlight: true
@@ -34,55 +34,63 @@ sections:
         details: ''
         highlight: true
         actions:
-          - label: Go to repo
+          - label: Learn More
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
       - title: FISMA Ready
         subtitle: FISMA Specific
         price: ''
-        details: |
-          *   Toolkit to make scanning with OpenSCAP more developer-friendly
+        details: ''
         actions:
-          - label: Go to repo
+          - label: Learn More
             url: 'https://github.com/govready/govready/'
             style: primary
         highlight: true
-      - title: 'Docker, Inc.'
-        subtitle: Docker Datacenter
-        price: ''
-        details: >
-          Enterprise Containers-as-a-Service (CaaS) platform for developers and
-          IT operations
-        highlight: true
-        actions:
-          - label: Go to repo
-            url: 'https://github.com/docker/ddc-opencontrol'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
-      - title: Red Hat Public Sector
-        subtitle: OpenShift Container Platform (OCP)
-        price: ''
-        details: >
-          OpenShift is a container application platform that brings docker and
-          Kubernetes to the enterprise.
-        highlight: true
-        actions:
-          - label: Go to repo
-            url: 'https://github.com/opencontrol/RedHat'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
+  - section_id: Project Descriptions
+    title: ''
+    subtitle: ''
+    background: gray
+    features:
+      - title: Open Control Schema
+        content: "By adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. You can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n"
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+      - title: Compliance Masonary
+        content: >
+          Compliance Masonry simplifies the process of certification
+          documentation by providing:
+
+
+          *   a data store for certifications (ex FISMA), standards (ex
+          NIST-800-53), and the individual system components (ex AWS-EC2).
+
+
+          *   a way for government projects to edit existing files and also add
+          new control files for their applications and organizations.
+
+
+          *   a pipeline for generating clean and standardized certification
+          documentation.
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+      - title: FISMA Ready
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+    type: section_features
   - section_id: lorem-ipsum
     title: Related non-OpenControl Projects
     subtitle: ''
@@ -94,7 +102,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: RiskRedux - Typist
+          - label: GoComply
             url: 'https://www.codethink.co.uk/'
             style: secondary
             has_icon: false
@@ -133,7 +141,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: Operator Partners
-    title: Operator Partners
+    title: Non-related non-OpenControl Projects
     subtitle: ''
     background: gray
     pricing_plans:
@@ -143,7 +151,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: Pivotal Web Services
+          - label: RiskRedux - Typist
             url: lorem-ipsum
             style: primary
             has_icon: false
@@ -152,8 +160,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Cloud.gov
-            url: lorem-ipsum
+          - label: Common Criteria / CCI
+            url: 'https://commoncriteria.github.io/pp/references/nistvscci.html'
             style: primary
             has_icon: false
             icon: arrow-left
@@ -161,8 +169,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: OpenShift Online
-            url: lorem-ipsum
+          - label: Security Control Knowledge Graph (sckg)
+            url: 'https://github.com/redteam-project/sckg'
             style: primary
             has_icon: false
             icon: arrow-left

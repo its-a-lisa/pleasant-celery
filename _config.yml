@@ -20,7 +20,7 @@ header:
       no_follow: false
       type: action
     - label: Members
-      url: 'bout#members'
+      url: 'about#members'
       style: link
       has_icon: false
       icon: arrow-left
@@ -29,7 +29,7 @@ header:
       no_follow: false
       type: action
     - label: Projects
-      url: lorem-ipsum
+      url: projects
       style: link
       has_icon: false
       icon: arrow-left
@@ -47,7 +47,7 @@ header:
       no_follow: false
       type: action
     - label: Participate
-      url: /features
+      url: /participate
       style: link
   logo_img: images/oclogo_small.png
 footer:
