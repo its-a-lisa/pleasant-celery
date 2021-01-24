@@ -71,7 +71,7 @@ footer:
           url: /signup
           style: link
         - label: Projects
-          url: /contact
+          url: /projects
           style: link
     - type: footer_nav
       title: Community
