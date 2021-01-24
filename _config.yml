@@ -111,7 +111,7 @@ footer:
       url: /privacy-policy
       style: link
     - label: Code of Conduct
-      url: lorem-ipsum
+      url: code-of-conduct
       style: link
       has_icon: false
       icon: arrow-left
