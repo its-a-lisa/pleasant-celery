@@ -11,7 +11,7 @@ header:
   has_nav: true
   nav_links:
     - label: About
-      url: about
+      url: bout
       style: link
       has_icon: false
       icon: arrow-left
