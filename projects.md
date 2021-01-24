@@ -103,7 +103,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: CivicActions
+          - label: OpenSCAP
             url: 'https://civicactions.com/'
             style: secondary
             has_icon: false
