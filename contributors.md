@@ -32,7 +32,7 @@ sections:
             style: primary
         highlight: true
       - title: Josh McKenty
-        subtitle: Amazon Web Services
+        subtitle: Project Leader
         price: ''
         details: ''
         highlight: true
