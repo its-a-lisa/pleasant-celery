@@ -47,7 +47,7 @@ sections:
         details: >
           Enterprise Containers-as-a-Service (CaaS) platform for developers and
           IT operations
-        highlight: false
+        highlight: true
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
