@@ -102,7 +102,7 @@ sections:
             no_follow: false
             type: action
           - label: GovReady BPC
-            url: lorem-ipsum
+            url: 'http://www.govready.com'
             style: link
             has_icon: false
             icon: arrow-left
