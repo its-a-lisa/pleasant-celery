@@ -48,7 +48,7 @@ sections:
         highlight: true
   - section_id: open-control-schema
     title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     features:
       - title: Open Control Schema
