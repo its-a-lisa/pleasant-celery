@@ -13,7 +13,7 @@ sections:
     pricing_plans:
       - title: 'Pivotal, Inc.'
         subtitle: Pivotal Cloud Foundry
-        price: $5/m
+        price: ''
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
