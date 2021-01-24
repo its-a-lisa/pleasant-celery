@@ -29,7 +29,7 @@ sections:
         details: ''
         highlight: true
         actions:
-          - label: Order Now
+          - label: Go to repo
             url: /signup
             style: primary
       - title: Enterprise
