@@ -172,7 +172,7 @@ sections:
   - section_id: Operator Partners
     title: Operator Partners
     subtitle: ''
-    background: white
+    background: gray
     pricing_plans:
       - title: ''
         subtitle: ''
