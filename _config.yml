@@ -16,12 +16,6 @@ header:
     - label: Gather
       url: /features
       style: link
-    - label: Style Guide
-      url: /style-guide
-      style: link
-    - label: Sign Up
-      url: /signup
-      style: primary
     - label: Blog
       url: blog
       style: link
@@ -31,6 +25,12 @@ header:
       new_window: false
       no_follow: false
       type: action
+    - label: Style Guide
+      url: /style-guide
+      style: link
+    - label: Sign Up
+      url: /signup
+      style: primary
   logo_img: images/oclogo_small.png
 footer:
   sections:
