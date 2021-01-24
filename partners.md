@@ -163,7 +163,7 @@ sections:
     pricing_plans:
       - title: ''
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: ''
         highlight: false
         actions:
