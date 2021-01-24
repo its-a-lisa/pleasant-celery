@@ -53,7 +53,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: It’s a set of tools and best practices.
-    subtitle: 'Powered by schemas and '
+    subtitle: Powered by schemas and community.
     actions:
       - label: Join the community
         url: /signup
