@@ -112,7 +112,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: GovReady BPC
+          - label: Open Security Control Assessment Language (OSCAL)
             url: 'https://govready.com/'
             style: secondary
             has_icon: false
