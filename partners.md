@@ -122,7 +122,7 @@ sections:
         type: pricing_plan
       - title: Operator Members
         subtitle: ''
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
