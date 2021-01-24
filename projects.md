@@ -20,7 +20,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: OpenControl Schema
-        subtitle: Pivotal Cloud Foundry
+        subtitle: Compliance Framework Agnostic
         price: ''
         details: ''
         actions:
