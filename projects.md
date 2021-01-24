@@ -106,7 +106,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: Pivotal Web Services
+          - label: RiskRedux - Typist
             url: lorem-ipsum
             style: primary
             has_icon: false
