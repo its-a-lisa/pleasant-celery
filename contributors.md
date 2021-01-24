@@ -7,8 +7,7 @@ no_index: false
 sections:
   - section_id: Members
     title: Contributors
-    content: |
-      #####
+    content: ''
     image_alt: lorem-ipsum
     background: gray
     actions: []
