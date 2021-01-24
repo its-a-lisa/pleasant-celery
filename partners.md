@@ -158,7 +158,7 @@ sections:
         type: pricing_plan
   - section_id: lorem-ipsum
     title: Operator Members
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     pricing_plans:
       - title: lorem-ipsum
