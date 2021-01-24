@@ -50,7 +50,7 @@ sections:
             url: 'https://github.com/govready/govready/'
             style: primary
         highlight: true
-      - title: 'Docker, Inc.'
+      - title: Aidan Feldman
         subtitle: Docker Datacenter
         price: ''
         details: >
