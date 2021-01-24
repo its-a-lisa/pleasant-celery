@@ -20,7 +20,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Learn More
             url: /signup
             style: secondary
       - title: ''
