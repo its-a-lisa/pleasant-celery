@@ -6,9 +6,6 @@ subtitle: >-
   and styles for your content.
 layout: page
 ---
-A YAML-Powered Antidote To Bureaucracy
-
-
 ## It’s a powerfully simple idea.
 
 To improve the quality of our software development, we use continuous integration. To improve the reliability of our deployment, we use continuous delivery. To improve the security of our systems, we can use continuous authorization.
