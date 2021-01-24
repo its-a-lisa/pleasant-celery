@@ -47,24 +47,6 @@ sections:
             url: 'https://github.com/govready/govready/'
             style: primary
         highlight: true
-      - title: 'Docker, Inc.'
-        subtitle: Docker Datacenter
-        price: ''
-        details: >
-          Enterprise Containers-as-a-Service (CaaS) platform for developers and
-          IT operations
-        highlight: true
-        actions:
-          - label: Go to repo
-            url: 'https://github.com/docker/ddc-opencontrol'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
       - title: Red Hat Public Sector
         subtitle: OpenShift Container Platform (OCP)
         price: ''
