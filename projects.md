@@ -57,17 +57,19 @@ sections:
         actions: []
         type: feature_item
       - title: Compliance Masonary
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Compliance Masonry simplifies the process of certification
+          documentation by providing:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          a data store for certifications (ex FISMA), standards (ex
+          NIST-800-53), and the individual system components (ex AWS-EC2).
 
+          a way for government projects to edit existing files and also add new
+          control files for their applications and organizations.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          a pipeline for generating clean and standardized certification
+          documentation.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
