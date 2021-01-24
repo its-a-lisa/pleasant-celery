@@ -39,10 +39,7 @@ sections:
         price: ''
         details: |
           *   Toolkit to make scanning with OpenSCAP more developer-friendly
-        actions:
-          - label: Go to repo
-            url: 'https://github.com/govready/govready/'
-            style: primary
+        actions: []
         highlight: true
       - title: Aidan Feldman
         subtitle: Tool Group
