@@ -24,7 +24,7 @@ sections:
             url: /signup
             style: secondary
       - title: ''
-        subtitle: For medium-sized businesses
+        subtitle: ''
         price: Join!
         details: |-
           * Curabitur non nunc mollis
