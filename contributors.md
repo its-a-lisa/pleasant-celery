@@ -50,9 +50,7 @@ sections:
       - title: John Scott
         subtitle: Content Group
         price: ''
-        details: >
-          OpenShift is a container application platform that brings docker and
-          Kubernetes to the enterprise.
+        details: ''
         highlight: true
         actions: []
         type: pricing_plan
