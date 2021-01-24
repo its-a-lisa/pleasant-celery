@@ -8,7 +8,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Members
+    title: Vendor Members
     subtitle: >-
       The Vendors and Operators below have, unofficially and without any
       legally-binding commitment, endorsed the principles of Continuous
