@@ -19,7 +19,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Vendor Partners
+    title: Active Contributors
     subtitle: ''
     pricing_plans:
       - title: 'Pivotal, Inc.'
