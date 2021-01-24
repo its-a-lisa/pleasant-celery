@@ -196,7 +196,7 @@ sections:
             no_follow: false
             type: action
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: 'https://govready.com/'
             style: link
             has_icon: false
             icon: arrow-left
