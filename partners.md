@@ -49,7 +49,7 @@ sections:
           IT operations
         highlight: true
         actions:
-          - label: lorem-ipsum
+          - label: Go to repo
             url: lorem-ipsum
             style: secondary
             has_icon: false
