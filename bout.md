@@ -49,7 +49,7 @@ sections:
           * Phasellus lobortis risus laoreet quam
         actions:
           - label: Learn More
-            url: /signup
+            url: /contributors
             style: secondary
   - section_id: faq
     type: section_faq
