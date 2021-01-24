@@ -106,45 +106,5 @@ sections:
             type: action
         type: pricing_plan
     type: section_pricing
-  - section_id: Operator Partners
-    title: Operator Partners
-    subtitle: ''
-    background: gray
-    pricing_plans:
-      - title: ''
-        subtitle: ''
-        price: ''
-        details: ''
-        highlight: false
-        actions:
-          - label: Pivotal Web Services
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: Cloud.gov
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: OpenShift Online
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
-    type: section_pricing
 layout: landing
 ---
