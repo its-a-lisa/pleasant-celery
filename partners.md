@@ -121,7 +121,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Operator Members
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
