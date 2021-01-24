@@ -39,7 +39,7 @@ sections:
           *   Toolkit to make scanning with OpenSCAP more developer-friendly
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://github.com/govready/govready/'
             style: secondary
   - section_id: faq
     type: section_faq
