@@ -97,7 +97,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: Codethink
+          - label: John Jediny
             url: 'https://www.codethink.co.uk/'
             style: secondary
             has_icon: false
