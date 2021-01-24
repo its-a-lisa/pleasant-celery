@@ -41,7 +41,7 @@ header:
       url: /signup
       style: primary
     - label: faq
-      url: lorem-ipsum
+      url: faq
       style: link
       has_icon: false
       icon: arrow-left
