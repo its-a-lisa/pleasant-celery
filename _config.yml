@@ -37,9 +37,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Participate
-      url: /features
-      style: link
     - label: Blog
       url: blog
       style: link
@@ -49,6 +46,9 @@ header:
       new_window: false
       no_follow: false
       type: action
+    - label: Participate
+      url: /features
+      style: link
   logo_img: images/oclogo_small.png
 footer:
   sections:
