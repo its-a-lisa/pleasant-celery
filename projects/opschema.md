@@ -2,7 +2,7 @@
 title: OpenControl Schema
 meta_title: opschema
 meta_description: ''
-canonical_url: fismaready
+canonical_url: opschema
 no_index: false
 sections:
   - section_id: OPSchema
