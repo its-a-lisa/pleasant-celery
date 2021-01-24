@@ -68,7 +68,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Red Hat Public Sector
+      - title: John Scott
         subtitle: OpenShift Container Platform (OCP)
         price: ''
         details: >
