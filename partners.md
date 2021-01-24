@@ -20,7 +20,7 @@ sections:
         price: ''
         details: ''
         actions:
-          - label: Got to repo
+          - label: Go to repo
             url: 'https://github.com/opencontrol/cf-compliance'
             style: secondary
       - title: Amazon Web Services (via 18F)
