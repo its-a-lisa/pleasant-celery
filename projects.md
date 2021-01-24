@@ -120,7 +120,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: RiskRedux - Typist
+          - label: RiskRedux
             url: lorem-ipsum
             style: primary
             has_icon: false
