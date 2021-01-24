@@ -11,7 +11,7 @@ sections:
       auditing security controls.
     actions:
       - label: Learn More
-        url: /bout
+        url: /about
         style: primary
   - section_id: features
     type: section_features
