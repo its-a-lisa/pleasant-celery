@@ -80,6 +80,15 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: NIST DevSecOps
+            url: 'https://csrc.nist.gov/Projects/devsecops'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
           - label: GoComply
             url: 'https://github.com/GoComply'
             style: secondary
@@ -109,15 +118,6 @@ sections:
             type: action
           - label: GovReady
             url: 'https://govready.com/'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: NIST DevSecOps
-            url: 'https://csrc.nist.gov/Projects/devsecops'
             style: secondary
             has_icon: false
             icon: arrow-left
