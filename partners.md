@@ -190,7 +190,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: Pivotol Web Services
+          - label: Pivotal Web Services
             url: lorem-ipsum
             style: link
             has_icon: false
