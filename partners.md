@@ -50,7 +50,7 @@ sections:
         highlight: true
         actions:
           - label: Go to repo
-            url: lorem-ipsum
+            url: 'https://github.com/docker/ddc-opencontrol'
             style: secondary
             has_icon: false
             icon: arrow-left
