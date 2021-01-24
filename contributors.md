@@ -57,17 +57,7 @@ sections:
       - title: Šimon Lukašík
         subtitle: Tool Group
         price: ''
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: ''
         highlight: false
         actions: []
         type: pricing_plan
