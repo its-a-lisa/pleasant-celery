@@ -12,7 +12,7 @@ sections:
       controls.
     actions:
       - label: Learn More
-        url: /features
+        url: /bout
         style: primary
   - section_id: features
     type: section_features
