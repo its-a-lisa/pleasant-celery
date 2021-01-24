@@ -188,7 +188,7 @@ sections:
             type: action
           - label: CivicActions
             url: 'https://civicactions.com/'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
