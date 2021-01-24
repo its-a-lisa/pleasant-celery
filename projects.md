@@ -24,7 +24,7 @@ sections:
         price: ''
         details: ''
         actions:
-          - label: Go to repo
+          - label: Learn More
             url: 'https://github.com/opencontrol/cf-compliance'
             style: primary
         highlight: true
