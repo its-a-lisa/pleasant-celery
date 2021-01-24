@@ -179,7 +179,7 @@ sections:
         actions:
           - label: Codethink
             url: 'https://www.codethink.co.uk/'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
