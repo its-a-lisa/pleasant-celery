@@ -83,7 +83,7 @@ footer:
           icon: github
           icon_position: left
         - label: Contact
-          url: lorem-ipsum
+          url: /contact
           style: link
           has_icon: false
           icon: arrow-left
