@@ -161,7 +161,7 @@ sections:
     subtitle: ''
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: ''
