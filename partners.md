@@ -20,7 +20,7 @@ sections:
             url: 'https://github.com/opencontrol/cf-compliance'
             style: secondary
       - title: Amazon Web Services (via 18F)
-        subtitle: For medium-sized businesses
+        subtitle: Amazon Web Services
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
