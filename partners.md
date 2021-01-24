@@ -35,11 +35,8 @@ sections:
       - title: GovReady BPC
         subtitle: GovReady Toolkit
         price: ''
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Toolkit to make scanning with OpenSCAP more developer-friendly
         actions:
           - label: Order Now
             url: /signup
