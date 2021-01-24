@@ -41,7 +41,7 @@ sections:
         actions:
           - label: Go to repo
             url: 'https://github.com/govready/govready/'
-            style: secondary
+            style: primary
         highlight: true
       - title: 'Docker, Inc.'
         subtitle: Docker Datacenter
