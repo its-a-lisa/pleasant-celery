@@ -44,17 +44,9 @@ sections:
       - title: 'Docker, Inc.'
         subtitle: Docker Datacenter
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          Enterprise Containers-as-a-Service (CaaS) platform for developers and
+          IT operations
         highlight: false
         actions: []
         type: pricing_plan
