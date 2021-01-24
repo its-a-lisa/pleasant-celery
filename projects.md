@@ -118,7 +118,7 @@ sections:
             type: action
           - label: NIST DevSecOps
             url: 'https://csrc.nist.gov/Projects/devsecops'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
