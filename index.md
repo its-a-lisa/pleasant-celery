@@ -21,11 +21,7 @@ sections:
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
-    reviews:
-      - author: Code of Conduct
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    reviews: []
   - section_id: features
     type: section_features
     background: gray
