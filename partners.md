@@ -205,7 +205,7 @@ sections:
             no_follow: false
             type: action
           - label: SHE BASH LLC.
-            url: lorem-ipsum
+            url: 'https://shebash.io/'
             style: link
             has_icon: false
             icon: arrow-left
