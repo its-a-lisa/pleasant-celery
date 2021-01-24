@@ -115,7 +115,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Cloud.gov
+          - label: Common Criteria / CCI
             url: 'https://commoncriteria.github.io/pp/references/nistvscci.html'
             style: primary
             has_icon: false
