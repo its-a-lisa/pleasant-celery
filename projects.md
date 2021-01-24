@@ -1,6 +1,6 @@
 ---
 title: Projects
-meta_title: ''
+meta_title: projects
 meta_description: ''
 canonical_url: partners
 no_index: false
