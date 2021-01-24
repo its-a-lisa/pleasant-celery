@@ -57,7 +57,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: RiskRedux - Typist
+          - label: GoComply
             url: 'https://www.codethink.co.uk/'
             style: secondary
             has_icon: false
