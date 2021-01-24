@@ -110,7 +110,7 @@ footer:
     - label: Privacy Policy
       url: /privacy-policy
       style: link
-    - label: lorem-ipsum
+    - label: Code of Conduct
       url: lorem-ipsum
       style: link
       has_icon: false
