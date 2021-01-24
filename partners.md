@@ -144,7 +144,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: 'Red Hat, Inc'
+          - label: OpenShift Online
             url: lorem-ipsum
             style: link
             has_icon: false
