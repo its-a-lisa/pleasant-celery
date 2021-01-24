@@ -157,7 +157,7 @@ sections:
             type: action
         type: pricing_plan
   - section_id: lorem-ipsum
-    title: Operator Members
+    title: Consultancy Service Members
     subtitle: ''
     background: gray
     pricing_plans:
