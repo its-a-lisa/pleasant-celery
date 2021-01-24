@@ -23,7 +23,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: Alyssa Feola
-        subtitle: Pivotal Cloud Foundry
+        subtitle: Community Leader
         price: ''
         details: ''
         actions:
