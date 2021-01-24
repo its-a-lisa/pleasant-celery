@@ -1,8 +1,8 @@
 ---
 title: YOU’RE NUTS! AUTOMATING YOUR 1000+PAGE FEDRAMP SYSTEM SECURITY PLAN?
 subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Tools, platforms, or applications that allow the SSP to be integrated into the
+  automation CSPs utilize for their on-going security compliance are missing.
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
