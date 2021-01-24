@@ -76,16 +76,5 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    reviews:
-      - author: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        type: review_item
-    type: section_reviews
 layout: landing
 ---
