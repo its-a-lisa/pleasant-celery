@@ -36,12 +36,12 @@ sections:
           documentation by providing:
 
 
-          \-- a data store for certifications (ex FISMA), standards (ex
-          NIST-800-53), and the individual system components (ex AWS-EC2).
+          \-- a data store for certifications, standards, and the individual
+          system components.
 
 
-          \-- a way for government projects to edit existing files and also add
-          new control files for their applications and organizations.
+          \-- a way for projects to edit existing files and also add new control
+          files for their applications and organizations.
 
 
           \-- a pipeline for generating clean and standardized certification
