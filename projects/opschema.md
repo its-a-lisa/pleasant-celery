@@ -5,7 +5,7 @@ meta_description: lorem-ipsum
 canonical_url: fismaready
 no_index: false
 sections:
-  - section_id: FISMAReady
+  - section_id: OPSchema
     type: section_content
     background: gray
     image: images/festive-triceratops.png
