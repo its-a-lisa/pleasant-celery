@@ -83,7 +83,7 @@ footer:
           icon: github
           icon_position: left
     - type: footer_form
-      title: Contact Us
+      title: Subscribe
       content: Stay up to date with our latest developments.
       form_id: contactForm
       hide_labels: true
