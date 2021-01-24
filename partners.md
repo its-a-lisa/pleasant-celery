@@ -2,7 +2,7 @@
 title: Partners
 meta_title: ''
 meta_description: ''
-canonical_url: lorem-ipsum
+canonical_url: partners
 no_index: false
 sections:
   - section_id: pricing
