@@ -111,7 +111,7 @@ footer:
       url: /privacy-policy
       style: link
     - label: Code of Conduct
-      url: code-of-conduct
+      url: privacy-policy
       style: link
       has_icon: false
       icon: arrow-left
