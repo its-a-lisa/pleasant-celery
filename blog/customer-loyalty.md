@@ -3,7 +3,7 @@ title: 'GoComply with OSCAL & FedRAMP :: Introduction to OpenControl'
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: "This is the first post of the\_GoComply series\_that introduces open source pipeline to produce and process OSCAL and FedRAMP documents."
-date: '0002-12-08'
+date: '2020-12-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
