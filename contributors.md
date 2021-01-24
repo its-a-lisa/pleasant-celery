@@ -54,7 +54,7 @@ sections:
         highlight: true
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: Šimon Lukašík
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
