@@ -60,12 +60,6 @@ sections:
             url: 'https://github.com/govready/govready/'
             style: primary
         highlight: true
-  - section_id: Project Descriptions
-    title: ''
-    subtitle: ''
-    background: gray
-    features: []
-    type: section_features
   - section_id: lorem-ipsum
     title: Related non-OpenControl Projects
     subtitle: ''
