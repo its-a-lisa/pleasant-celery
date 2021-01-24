@@ -121,7 +121,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: SHE BASH LLC.
+          - label: GovReady
             url: 'https://shebash.io/'
             style: secondary
             has_icon: false
