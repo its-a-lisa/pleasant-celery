@@ -67,7 +67,7 @@ sections:
           Kubernetes to the enterprise.
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Go to repo
             url: lorem-ipsum
             style: link
             has_icon: false
