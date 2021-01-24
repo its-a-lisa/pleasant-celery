@@ -26,7 +26,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Professional
+      - title: ''
         subtitle: For medium-sized businesses
         price: Code of Conduct
         details: |-
