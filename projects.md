@@ -37,7 +37,7 @@ sections:
           - label: Go to repo
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
-      - title: GovReady BPC
+      - title: FISMA Ready
         subtitle: GovReady Toolkit
         price: ''
         details: |
