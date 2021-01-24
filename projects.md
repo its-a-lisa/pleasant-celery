@@ -2,7 +2,7 @@
 title: Projects
 meta_title: projects
 meta_description: ''
-canonical_url: partners
+canonical_url: projects
 no_index: false
 sections:
   - section_id: Members
