@@ -136,7 +136,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: open-control-schema
-    title: Open Control Schema
+    title: ''
     subtitle: lorem-ipsum
     background: gray
     features:
