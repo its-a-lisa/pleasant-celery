@@ -25,7 +25,7 @@ sections:
         details: ''
         actions:
           - label: Learn More
-            url: 'https://github.com/opencontrol/schemas'
+            url: /projects/
             style: primary
         highlight: true
       - title: Compliance Masonary
