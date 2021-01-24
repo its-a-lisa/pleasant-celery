@@ -83,7 +83,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Codethink
             url: lorem-ipsum
             style: link
             has_icon: false
