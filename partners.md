@@ -195,7 +195,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: 'GovReady '
             url: 'https://govready.com/'
             style: link
             has_icon: false
