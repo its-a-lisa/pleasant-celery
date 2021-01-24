@@ -173,5 +173,11 @@ sections:
     background: gray
     actions: []
     type: section_content
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 layout: landing
 ---
