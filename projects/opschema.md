@@ -10,7 +10,7 @@ sections:
     background: gray
     image: images/festive-triceratops.png
     image_alt: ''
-    title: Compliance Masonary
+    title: OpenControl Schema
     content: >
       # About
 
