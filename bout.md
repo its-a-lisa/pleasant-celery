@@ -2,7 +2,7 @@
 title: About OpenControl
 meta_title: ''
 meta_description: ''
-canonical_url: ''
+canonical_url: about
 no_index: false
 sections:
   - section_id: About OpenCtonrol
