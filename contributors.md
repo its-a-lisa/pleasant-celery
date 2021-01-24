@@ -43,9 +43,7 @@ sections:
       - title: Aidan Feldman
         subtitle: Tool Group
         price: ''
-        details: >
-          Enterprise Containers-as-a-Service (CaaS) platform for developers and
-          IT operations
+        details: ''
         highlight: true
         actions: []
         type: pricing_plan
