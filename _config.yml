@@ -47,7 +47,7 @@ header:
       no_follow: false
       type: action
     - label: Participate
-      url: /
+      url: /participate
       style: link
   logo_img: images/oclogo_small.png
 footer:
