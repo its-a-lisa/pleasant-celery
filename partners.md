@@ -61,7 +61,7 @@ sections:
         type: pricing_plan
       - title: Red Hat Public Sector
         subtitle: OpenShift Container Platform (OCP)
-        price: lorem-ipsum
+        price: ''
         details: >
           OpenShift is a container application platform that brings docker and
           Kubernetes to the enterprise.
