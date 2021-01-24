@@ -11,62 +11,7 @@ sections:
     image: images/festive-triceratops.png
     image_alt: ''
     title: OpenControl Schema
-    content: >
-      # About
-
-
-      It’s a powerfully simple idea.
-
-
-      To improve the quality of our software development, we use continuous
-      integration. To improve the reliability of our deployment, we use
-      continuous delivery. To improve the security of our systems, we can use
-      continuous authorization.
-
-
-      Simply put, the tools that we use to develop and operate software, should
-      also be used to generate and validate assessment and authorization
-      packages.
-
-
-      Every commit runs the tests. Every passing build, updates the system
-      security plan. Every deployment includes updates to continuous monitoring.
-
-
-      > Software as Code.
-
-
-      > Tests as Code.
-
-
-      > Infrastructure as Code.
-
-
-      > Compliance as Code.
-
-
-
-
-      ## It’s a set of tools and best practices.
-
-
-      # Source Code
-
-
-      Browse the source code for this projects that form the OpenControl.
-
-
-      https://github.com/fisma-ready
-
-
-      ### Contribute
-
-
-      Stay up to date with the latest announcements and discussions about 
-      FISMAReady.
-
-
-      https://github.com/fisma-ready/introduction/issues
+    content: "# About\n\n## It’s a schema.\n\nBy adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. \n\n# Source Code\n\nBrowse the source code for this projects that form the OpenControl.\n\nYou can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n\n### Contribute\n\nStay up to date with the latest announcements and discussions about  FISMAReady.\n\nhttps://github.com/fisma-ready/introduction/issues\n"
     actions: []
   - section_id: call-to-action
     type: section_cta
