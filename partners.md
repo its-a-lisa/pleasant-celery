@@ -80,8 +80,7 @@ sections:
       - title: ''
         subtitle: lorem-ipsum
         price: Consultancy Service Members
-        details: |
-          *
+        details: ''
         highlight: false
         actions: []
         type: pricing_plan
