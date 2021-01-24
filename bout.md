@@ -34,7 +34,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: Join Now
             url: /signup
             style: primary
       - title: ''
