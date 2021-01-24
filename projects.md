@@ -116,7 +116,7 @@ sections:
             no_follow: false
             type: action
           - label: Cloud.gov
-            url: lorem-ipsum
+            url: 'https://commoncriteria.github.io/pp/references/nistvscci.html'
             style: primary
             has_icon: false
             icon: arrow-left
