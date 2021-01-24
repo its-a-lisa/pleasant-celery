@@ -92,7 +92,7 @@ footer:
           no_follow: false
           type: action
         - label: Participate
-          url: lorem-ipsum
+          url: /participate
           style: link
           has_icon: false
           icon: arrow-left
