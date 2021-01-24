@@ -31,9 +31,6 @@ header:
     - label: Community
       url: /features
       style: link
-    - label: Philosophy
-      url: /style-guide
-      style: link
     - label: Blog
       url: blog
       style: link
