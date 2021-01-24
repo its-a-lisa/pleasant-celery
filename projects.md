@@ -29,7 +29,7 @@ sections:
             style: primary
         highlight: true
       - title: Compliance Masonary
-        subtitle: Amazon Web Services
+        subtitle: Compliance Framework Agnostic
         price: ''
         details: ''
         highlight: true
