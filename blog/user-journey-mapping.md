@@ -1,5 +1,5 @@
 ---
-title: A Guide To User Journey Mapping
+title: YOU’RE NUTS! AUTOMATING YOUR 1000+PAGE FEDRAMP SYSTEM SECURITY PLAN?
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
