@@ -20,7 +20,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Tooling
+      - title: Projects
         image: images/009-email.png
         image_alt: App preview on a phone and tablet
         content: >
