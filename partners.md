@@ -127,7 +127,7 @@ sections:
         highlight: false
         actions:
           - label: Pivotal Web Services
-            url: lorem-ipsum
+            url: 'https://run.pivotal.io/'
             style: link
             has_icon: false
             icon: arrow-left
