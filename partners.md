@@ -51,7 +51,7 @@ sections:
         actions:
           - label: Go to repo
             url: 'https://github.com/docker/ddc-opencontrol'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: left
