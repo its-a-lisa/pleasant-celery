@@ -33,7 +33,7 @@ sections:
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
       - title: GovReady BPC
-        subtitle: For very large businesses
+        subtitle: GovReady Toolkit
         price: ''
         details: |-
           * Vestibulum non eros quis
