@@ -25,7 +25,7 @@ sections:
         details: ''
         actions:
           - label: Learn More
-            url: /projects/
+            url: /projects/opschema
             style: primary
         highlight: true
       - title: Compliance Masonary
