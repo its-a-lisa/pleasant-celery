@@ -206,7 +206,7 @@ sections:
             type: action
           - label: SHE BASH LLC.
             url: 'https://shebash.io/'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
