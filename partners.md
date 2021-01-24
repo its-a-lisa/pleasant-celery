@@ -77,7 +77,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         price: Consultancy Service Members
         details: >-
