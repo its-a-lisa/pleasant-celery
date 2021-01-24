@@ -37,8 +37,7 @@ sections:
       - title: Greg Elin
         subtitle: Tool Group
         price: ''
-        details: |
-          *   Toolkit to make scanning with OpenSCAP more developer-friendly
+        details: ''
         actions: []
         highlight: true
       - title: Aidan Feldman
