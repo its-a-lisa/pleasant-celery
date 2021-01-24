@@ -56,7 +56,7 @@ sections:
         type: pricing_plan
       - title: Šimon Lukašík
         subtitle: Tool Group
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
