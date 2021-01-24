@@ -121,7 +121,7 @@ sections:
             type: action
         type: pricing_plan
   - section_id: lorem-ipsum
-    title: Consultancy Service Members
+    title: Consultancy Service Partners
     subtitle: ''
     background: gray
     pricing_plans:
