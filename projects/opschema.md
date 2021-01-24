@@ -1,6 +1,6 @@
 ---
 title: OpenControl Schema
-meta_title: fisama-ready
+meta_title: op
 meta_description: lorem-ipsum
 canonical_url: fismaready
 no_index: false
