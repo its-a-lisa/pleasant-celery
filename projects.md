@@ -125,7 +125,7 @@ sections:
             no_follow: false
             type: action
           - label: Security Control Knowledge Graph (sckg)
-            url: lorem-ipsum
+            url: 'https://github.com/redteam-project/sckg'
             style: primary
             has_icon: false
             icon: arrow-left
