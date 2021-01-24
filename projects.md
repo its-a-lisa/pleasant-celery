@@ -49,7 +49,7 @@ sections:
         highlight: true
         actions:
           - label: Learn More
-            url: 'https://github.com/opencontrol/compliance-masonry'
+            url: /projects/compliancemasonry
             style: primary
       - title: FISMA Ready
         subtitle: FISMA Specific
