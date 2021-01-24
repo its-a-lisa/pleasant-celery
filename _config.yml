@@ -25,7 +25,7 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Style Guide
+    - label: Philosophy
       url: /style-guide
       style: link
     - label: Sign Up
