@@ -170,7 +170,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: Operator Partners
-    title: lorem-ipsum
+    title: Operator Partners
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
