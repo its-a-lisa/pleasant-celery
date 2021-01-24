@@ -124,7 +124,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: SHE BASH LLC.
+          - label: Britta G.
             url: 'https://shebash.io/'
             style: secondary
             has_icon: false
