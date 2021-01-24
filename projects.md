@@ -94,7 +94,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: Codethink
+          - label: RiskRedux - Typist
             url: 'https://www.codethink.co.uk/'
             style: secondary
             has_icon: false
