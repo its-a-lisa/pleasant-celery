@@ -60,7 +60,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Red Hat Public Sector
-        subtitle: lorem-ipsum
+        subtitle: OpenShift Container Platform (OCP)
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
