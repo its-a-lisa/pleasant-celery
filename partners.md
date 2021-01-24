@@ -14,11 +14,7 @@ sections:
       - title: 'Pivotal, Inc.'
         subtitle: Pivotal Cloud Foundry
         price: ''
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: ''
         actions:
           - label: Got to repo
             url: 'https://github.com/opencontrol/cf-compliance'
