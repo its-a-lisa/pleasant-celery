@@ -32,7 +32,7 @@ header:
       url: /signup
       style: primary
     - label: Partners
-      url: lorem-ipsum
+      url: partners
       style: link
       has_icon: false
       icon: arrow-left
