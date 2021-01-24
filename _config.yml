@@ -28,15 +28,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Partners
-      url: partners
-      style: link
-      has_icon: false
-      icon: arrow-left
-      icon_position: left
-      new_window: false
-      no_follow: false
-      type: action
     - label: Community
       url: /features
       style: link
