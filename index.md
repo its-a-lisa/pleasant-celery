@@ -18,9 +18,7 @@ sections:
     type: section_features
     background: gray
     title: ''
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     features:
       - title: Tooling
         image: images/009-email.png
