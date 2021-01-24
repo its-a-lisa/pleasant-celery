@@ -26,12 +26,7 @@ sections:
       - title: ''
         subtitle: ''
         price: Join!
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: ''
         highlight: true
         actions:
           - label: Join Now
