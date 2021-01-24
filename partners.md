@@ -69,7 +69,7 @@ sections:
         actions:
           - label: Go to repo
             url: 'https://github.com/opencontrol/RedHat'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
