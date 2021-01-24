@@ -19,7 +19,7 @@ sections:
     title: OpenControl Projects
     subtitle: ''
     pricing_plans:
-      - title: 'Pivotal, Inc.'
+      - title: OpenControl Schema
         subtitle: Pivotal Cloud Foundry
         price: ''
         details: ''
