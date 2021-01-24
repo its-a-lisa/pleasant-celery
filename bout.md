@@ -1,6 +1,6 @@
 ---
 title: About OpenControl
-meta_title: lorem-ipsum
+meta_title: ''
 meta_description: lorem-ipsuma
 canonical_url: lorem-ipsum
 no_index: false
