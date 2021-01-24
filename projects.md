@@ -8,7 +8,7 @@ sections:
   - section_id: Members
     title: Projects
     content: |
-      ##### Projects done to contribute towards the mission of OpenControl
+      ##### Projects that contribute towards the mission of OpenControl.
     image_alt: lorem-ipsum
     background: gray
     actions: []
