@@ -55,7 +55,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Šimon Lukašík
-        subtitle: lorem-ipsum
+        subtitle: Tool Group
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
