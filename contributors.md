@@ -33,10 +33,7 @@ sections:
         price: ''
         details: ''
         highlight: true
-        actions:
-          - label: Go to repo
-            url: 'https://github.com/opencontrol/aws-compliance'
-            style: primary
+        actions: []
       - title: Greg Elin
         subtitle: Tool Group
         price: ''
