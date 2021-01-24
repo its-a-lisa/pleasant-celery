@@ -13,6 +13,17 @@ sections:
     background: gray
     actions: []
     type: section_content
+  - section_id: open-control-schema
+    title: ''
+    subtitle: lorem-ipsum
+    background: gray
+    features:
+      - title: Open Control Schema
+        content: "By adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. You can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n"
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+    type: section_features
   - section_id: pricing
     type: section_pricing
     background: gray
@@ -135,16 +146,5 @@ sections:
             type: action
         type: pricing_plan
     type: section_pricing
-  - section_id: open-control-schema
-    title: ''
-    subtitle: lorem-ipsum
-    background: gray
-    features:
-      - title: Open Control Schema
-        content: "By adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. You can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n"
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-    type: section_features
 layout: landing
 ---
