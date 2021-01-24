@@ -37,7 +37,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: ''
         subtitle: ''
         price: Contributors
         details: |-
