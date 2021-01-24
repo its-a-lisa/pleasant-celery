@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: Privacy Policy
 subtitle: ''
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
