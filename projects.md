@@ -16,7 +16,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Vendor Partners
+    title: OpenControl Projects
     subtitle: ''
     pricing_plans:
       - title: 'Pivotal, Inc.'
