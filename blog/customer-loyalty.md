@@ -1,6 +1,6 @@
 ---
 title: 'GoComply with OSCAL & FedRAMP :: Introduction to OpenControl'
-subtitle: Open source pi
+subtitle: 'Open source pipeline for '
 author: _data/authors/jane-doe.yaml
 excerpt: "This is the first post of the\_GoComply series\_that introduces open source pipeline to produce and process OSCAL and FedRAMP documents."
 date: '2020-12-08'
