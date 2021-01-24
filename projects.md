@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: Projects
 meta_title: ''
 meta_description: ''
 canonical_url: partners
