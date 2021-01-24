@@ -76,25 +76,11 @@ sections:
           “dependency-injection” style of job and resource declaration in
           Concourse made it a good fit for the semantics of OpenControl.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Why didn’t you use OpenSCAP?
         answer: "The Security Content Automation Protocol (SCAP) is developed by the US Government to check for the presence of common vulnerabilities, or secure configurations on common technologies. OpenSCAP and OpenControl are extremely complementary - they are solving different problems. As the name implies,\_[OpenSCAP](https://github.com/OpenSCAP), a collection of open source SCAP tools provided by Red Hat, is about\_*automating*\_whether or not technologies with SCAP profiles in fact possess the security claims or “benchmarks” provided by\_[NIST](https://web.nvd.nist.gov/view/ncp/repository)\_or have common vulnerabilities in\_[MITRE’s database](https://cve.mitre.org/).\n\nIf your organization already uses SCAP, OpenSCAP may be a great solution to run those tests, and then output the results to\_[Compliance Masonry](https://github.com/opencontrol/compliance-masonry), an OpenControl tool. You use Compliance Masonry to map and automation of the\_*results*\_of those tests to the actual compliance documentation, which was always the missing piece from SCAP based systems. SCAP systems still required humans to manually entire information into static documentation. Via Compliance Masonry, OpenControl is\_[agnostic as to the source of your test results](https://github.com/opencontrol/compliance-masonry#long-term-plan-diagram)\_and whether not any compliance control is in fact implemented. It maps those controls to tests, and also renders the final compliance documentation.\n\nAlso of note is that the SCAP standard is\_[extremely verbose and complex XML](http://scap.nist.gov/schema/scap/1.2/scap-source-data-stream\\_1.2.xsd). Developers of net-new technologies have usually not written benchmarks in SCAP, and as a result, benchmarks significantly lag behind technological development. By using YAML and creating a more developer focused framework, we hope that secure baselines evolve more quickly in parallel with SCAP enabled enterprise benchmarks provided by NIST.\n"
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - question: Who came up with this concept?
+        answer: "The ideas of continuous authorization have been around for a long time. The term ‘OpenControl’ was coined by Joshua McKenty, and first used in\_[a keynote presentation at All Things Open 2015](https://speakerdeck.com/joshuamckenty/all-things-open-opencontrol)\_in Raleigh, North Carolina. The presentation includes some history, and explicit thanks to key originators at both 18F and Pivotal, as well as the creators of Cloud Audit. Special thanks goes to Diego Lapiduz and Noah Kunin.\n"
         type: faq_item
 layout: landing
 ---
