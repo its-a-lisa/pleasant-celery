@@ -1,6 +1,6 @@
 ---
 title: OpenControl Schema
-meta_title: op
+meta_title: opschema
 meta_description: lorem-ipsum
 canonical_url: fismaready
 no_index: false
