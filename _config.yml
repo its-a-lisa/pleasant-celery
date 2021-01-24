@@ -19,15 +19,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Members
-      url: 'about#members'
-      style: link
-      has_icon: false
-      icon: arrow-left
-      icon_position: left
-      new_window: false
-      no_follow: false
-      type: action
     - label: Projects
       url: projects
       style: link
@@ -40,6 +31,15 @@ header:
     - label: Participate
       url: /participate
       style: link
+    - label: Members
+      url: 'about#members'
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
     - label: Blog
       url: blog
       style: link
