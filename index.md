@@ -14,14 +14,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Community Support
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
-    reviews: []
   - section_id: features
     type: section_features
     background: gray
