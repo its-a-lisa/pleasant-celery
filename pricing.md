@@ -16,7 +16,7 @@ sections:
     pricing_plans:
       - title: ''
         subtitle: For small businesses
-        price: Members
+        price: Contributors
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
