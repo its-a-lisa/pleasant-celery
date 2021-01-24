@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Amazon Web Services (via 18F)
         subtitle: Amazon Web Services
-        price: $49/m
+        price: ''
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
