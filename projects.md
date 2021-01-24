@@ -61,7 +61,7 @@ sections:
             style: primary
         highlight: true
   - section_id: lorem-ipsum
-    title: Related non-OpenControl Projects
+    title: Friends of the Show
     subtitle: ''
     background: white
     pricing_plans:
@@ -71,6 +71,33 @@ sections:
         details: ''
         highlight: false
         actions:
+          - label: Software Bill of Materials (SBOM)
+            url: 'https://www.ntia.doc.gov/SoftwareTransparency'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+          - label: NIST DevSecOps
+            url: 'https://csrc.nist.gov/Projects/devsecops'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Open Security Control Assessment Language (OSCAL)
+            url: 'https://pages.nist.gov/OSCAL/'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
           - label: GoComply
             url: 'https://github.com/GoComply'
             style: secondary
@@ -82,15 +109,6 @@ sections:
             type: action
           - label: OpenSCAP
             url: 'https://www.open-scap.org/'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: Open Security Control Assessment Language (OSCAL)
-            url: 'https://pages.nist.gov/OSCAL/'
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -110,7 +128,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: Operator Partners
-    title: Non-related non-OpenControl Projects
+    title: Shows that we're watching
     subtitle: ''
     background: gray
     pricing_plans:
