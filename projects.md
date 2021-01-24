@@ -135,5 +135,10 @@ sections:
             type: action
         type: pricing_plan
     type: section_pricing
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
 layout: landing
 ---
