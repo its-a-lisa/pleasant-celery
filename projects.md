@@ -22,7 +22,7 @@ sections:
       - title: OpenControl Schema
         subtitle: Compliance Framework Agnostic
         price: ''
-        details: ''
+        details: "*   **Structured > unstructured.**\_Because OpenControl is a structured format, the information is data, so it can be converted to various formats, and/or pulled into a dashboard.\n\n<!---->\n\n*   **Inheritable.**\_Copying-and-pasting control statements between documents means there isn't a canonical source of information, and to keep that information up-to-date across all your System Security Plans (SSPs). OpenControl supports inheritance, meaning the platforms, policies,and systems that are common across multiple information systems can have their inherited/shared control information in one place, and automatically be pulled into the documentation for all the others.\n"
         actions:
           - label: Learn More
             url: /projects/opschema
@@ -72,7 +72,7 @@ sections:
         highlight: false
         actions:
           - label: GoComply
-            url: 'https://www.codethink.co.uk/'
+            url: 'https://github.com/GoComply'
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -81,7 +81,7 @@ sections:
             no_follow: false
             type: action
           - label: OpenSCAP
-            url: 'https://civicactions.com/'
+            url: 'https://www.open-scap.org/'
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -90,7 +90,7 @@ sections:
             no_follow: false
             type: action
           - label: Open Security Control Assessment Language (OSCAL)
-            url: 'https://govready.com/'
+            url: 'https://pages.nist.gov/OSCAL/'
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -99,7 +99,7 @@ sections:
             no_follow: false
             type: action
           - label: GovReady
-            url: 'https://shebash.io/'
+            url: 'https://govready.com/'
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -120,8 +120,8 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: RiskRedux - Typist
-            url: lorem-ipsum
+          - label: RiskRedux
+            url: 'https://risk-redux.io/'
             style: primary
             has_icon: false
             icon: arrow-left
