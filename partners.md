@@ -79,49 +79,6 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Consultancy Service Members
-        subtitle: ''
-        price: ''
-        details: ''
-        highlight: false
-        actions:
-          - label: Codethink
-            url: 'https://www.codethink.co.uk'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: CivicActions
-            url: 'http://www.civicactions.com'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: GovReady BPC
-            url: 'http://www.govready.com'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: SHE BASH LLC.
-            url: 'https://shebash.io'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
       - title: Operator Members
         subtitle: ''
         price: ''
