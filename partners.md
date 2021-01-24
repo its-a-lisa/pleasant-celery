@@ -32,7 +32,7 @@ sections:
           - label: Go to repo
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
-      - title: Enterprise
+      - title: GovReady BPC
         subtitle: For very large businesses
         price: ''
         details: |-
