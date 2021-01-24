@@ -87,7 +87,7 @@ sections:
             type: action
         type: pricing_plan
   - section_id: lorem-ipsum
-    title: Consultancy Service Partners
+    title: Alumni Contributors
     subtitle: ''
     background: white
     pricing_plans:
