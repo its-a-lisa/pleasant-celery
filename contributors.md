@@ -32,7 +32,7 @@ sections:
             style: primary
         highlight: true
       - title: Josh McKenty
-        subtitle: Project Leader
+        subtitle: Project Group
         price: ''
         details: ''
         highlight: true
