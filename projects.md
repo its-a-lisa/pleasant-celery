@@ -71,7 +71,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Software Bill of Materials (SBOM)
             url: lorem-ipsum
             style: link
             has_icon: false
