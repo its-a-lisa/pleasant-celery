@@ -38,7 +38,7 @@ sections:
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
       - title: FISMA Ready
-        subtitle: GovReady Toolkit
+        subtitle: FISMA Specific
         price: ''
         details: |
           *   Toolkit to make scanning with OpenSCAP more developer-friendly
