@@ -67,7 +67,7 @@ sections:
         details: >
           OpenShift is a container application platform that brings docker and
           Kubernetes to the enterprise.
-        highlight: false
+        highlight: true
         actions:
           - label: Go to repo
             url: 'https://github.com/opencontrol/RedHat'
