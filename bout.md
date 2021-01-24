@@ -20,7 +20,7 @@ sections:
     pricing_plans:
       - title: ''
         subtitle: ''
-        price: Members
+        price: Partners
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
