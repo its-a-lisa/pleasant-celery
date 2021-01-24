@@ -6,7 +6,7 @@ canonical_url: partners
 no_index: false
 sections:
   - section_id: Members
-    title: Members
+    title: Partners
     content: >
       ##### The Vendors and Operators below have, unofficially and without any
       legally-binding commitment, endorsed the principles of Continuous
