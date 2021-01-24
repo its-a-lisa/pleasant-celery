@@ -69,7 +69,7 @@ sections:
             type: action
         type: pricing_plan
       - title: John Scott
-        subtitle: OpenShift Container Platform (OCP)
+        subtitle: Content Group
         price: ''
         details: >
           OpenShift is a container application platform that brings docker and
