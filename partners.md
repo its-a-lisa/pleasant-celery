@@ -20,7 +20,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Got to repo
             url: /signup
             style: secondary
       - title: Professional
