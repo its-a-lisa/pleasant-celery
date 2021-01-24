@@ -126,7 +126,7 @@ sections:
         details: ''
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Pivotal Web Services
             url: lorem-ipsum
             style: link
             has_icon: false
