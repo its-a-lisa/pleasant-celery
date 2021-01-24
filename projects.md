@@ -7,11 +7,8 @@ no_index: false
 sections:
   - section_id: Members
     title: Projects
-    content: >
-      ##### The Vendors and Operators below have, unofficially and without any
-      legally-binding commitment, endorsed the principles of Continuous
-      Authorization, and have agreed to collaborate on the development of the
-      OpenControl schema, tools and best practices.
+    content: |
+      ##### Projects done to contribute towards the mission of OpenControl
     image_alt: lorem-ipsum
     background: gray
     actions: []
