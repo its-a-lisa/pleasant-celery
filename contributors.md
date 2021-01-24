@@ -26,10 +26,7 @@ sections:
         subtitle: Community Group
         price: ''
         details: ''
-        actions:
-          - label: Go to repo
-            url: 'https://github.com/opencontrol/cf-compliance'
-            style: primary
+        actions: []
         highlight: true
       - title: Josh McKenty
         subtitle: Project Group
