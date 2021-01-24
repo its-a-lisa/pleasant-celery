@@ -61,7 +61,7 @@ sections:
             style: primary
         highlight: true
   - section_id: lorem-ipsum
-    title: Related non-OpenControl Projects
+    title: Friends of the Show
     subtitle: ''
     background: white
     pricing_plans:
