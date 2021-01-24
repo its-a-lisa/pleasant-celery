@@ -41,7 +41,7 @@ sections:
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
       - title: Greg Elin
-        subtitle: Tool Leader
+        subtitle: Tool Developer Lead
         price: ''
         details: |
           *   Toolkit to make scanning with OpenSCAP more developer-friendly
