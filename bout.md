@@ -5,7 +5,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: About OpenCtonrol
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
