@@ -120,7 +120,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: Vendor Members
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
