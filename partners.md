@@ -119,7 +119,7 @@ sections:
     background: gray
     pricing_plans:
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: ''
         details: ''
         highlight: false
