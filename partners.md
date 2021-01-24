@@ -157,7 +157,7 @@ sections:
             type: action
         type: pricing_plan
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Operator Members
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
