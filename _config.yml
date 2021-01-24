@@ -28,11 +28,8 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Participate
-      url: /features
-      style: link
-    - label: Blog
-      url: blog
+    - label: lorem-ipsum
+      url: lorem-ipsum
       style: link
       has_icon: false
       icon: arrow-left
@@ -40,8 +37,11 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: lorem-ipsum
-      url: lorem-ipsum
+    - label: Participate
+      url: /features
+      style: link
+    - label: Blog
+      url: blog
       style: link
       has_icon: false
       icon: arrow-left
