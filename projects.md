@@ -22,7 +22,7 @@ sections:
       - title: OpenControl Schema
         subtitle: Compliance Framework Agnostic
         price: ''
-        details: ''
+        details: "OpenControl refers to both the community, and the schemas defined in this repository. You might be wondering: why use the OpenControl format, rather than write control information in a word processor? In short, the OpenControl format is\_**compliance as code.**\_That means:\n\n*   **Version-controllable.**\_Since YAML is a textual format (rather than binary), it can be version controlled alongside the code, and updated simultaneously using the same workflow (like pull requests).\n\n*   **Structured > unstructured.**\_Because OpenControl is a structured format, the information is data, so it can be converted to various formats, and/or pulled into a dashboard.\n\n*   **Inheritable.**\_Copying-and-pasting control statements between documents means there isn't a canonical source of information, and to keep that information up-to-date across all your System Security Plans (SSPs). OpenControl supports inheritance, meaning the platforms, policies, and\_[General Support Systems (GSSs)](https://csrc.nist.gov/Glossary/Term/general-support-system)\_that are common across multiple information systems can have their inherited/shared control information in one place, and automatically be pulled into the documentation for all the others.\n"
         actions:
           - label: Learn More
             url: /projects/opschema
