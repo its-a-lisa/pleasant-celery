@@ -20,7 +20,7 @@ sections:
     title: Community Support
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     reviews: []
   - section_id: features
     type: section_features
