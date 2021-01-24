@@ -30,7 +30,7 @@ sections:
         highlight: true
         actions:
           - label: Go to repo
-            url: /signup
+            url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
