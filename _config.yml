@@ -59,7 +59,7 @@ footer:
       content: |
         Security, not obsurity
     - type: footer_nav
-      title: Company
+      title: OpenControl
       nav_links:
         - label: About Us
           url: /about
