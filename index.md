@@ -7,38 +7,19 @@ sections:
     image_alt: App preview
     title: 'Security, not obscurity'
     content: >
-      OpenControl is a place for practitioners who spend their time auditing,
-      assessing, and maintaining information systems according to specified
-      controls.
+      OpenControl is a place to improve the work implementing, documenting and
+      auditing security controls.
     actions:
       - label: Learn More
-        url: /features
+        url: /bout
         style: primary
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Community Support
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    reviews:
-      - author: About
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Code of Conduct
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: features
     type: section_features
     background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: ''
+    subtitle: ''
     features:
-      - title: Tooling
+      - title: Projects
         image: images/009-email.png
         image_alt: App preview on a phone and tablet
         content: >
@@ -46,26 +27,12 @@ sections:
           collectively or others have developed and the community swears by.
         actions:
           - label: Learn More
-            url: /features
+            url: /projects
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/005-link.png
-        image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Gather
+      - title: Participate in the Community
         image: images/049-browser.png
         image_alt: App user profile preview
         content: >
