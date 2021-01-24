@@ -40,8 +40,7 @@ sections:
       - title: FISMA Ready
         subtitle: FISMA Specific
         price: ''
-        details: |
-          *   Toolkit to make scanning with OpenSCAP more developer-friendly
+        details: ''
         actions:
           - label: Go to repo
             url: 'https://github.com/govready/govready/'
