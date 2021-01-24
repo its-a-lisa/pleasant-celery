@@ -5,7 +5,7 @@ meta_description: ''
 canonical_url: partners
 no_index: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Members
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
