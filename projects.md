@@ -57,7 +57,7 @@ sections:
         details: ''
         actions:
           - label: Learn More
-            url: 'https://github.com/govready/govready/'
+            url: projects/fismaready
             style: primary
         highlight: true
   - section_id: lorem-ipsum
