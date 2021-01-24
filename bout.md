@@ -38,7 +38,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: For very large businesses
+        subtitle: ''
         price: Contributors
         details: |-
           * Vestibulum non eros quis
