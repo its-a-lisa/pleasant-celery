@@ -7,9 +7,8 @@ sections:
     image_alt: App preview
     title: 'Security, not obscurity'
     content: >
-      OpenControl is a place for practitioners who spend their time auditing,
-      assessing, and maintaining information systems according to specified
-      controls.
+      OpenControl is a place to improve the work implementing, documenting and
+      auditing security controls.
     actions:
       - label: Learn More
         url: /bout
