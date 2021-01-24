@@ -51,7 +51,7 @@ sections:
             style: primary
         highlight: true
       - title: Aidan Feldman
-        subtitle: Docker Datacenter
+        subtitle: ''
         price: ''
         details: >
           Enterprise Containers-as-a-Service (CaaS) platform for developers and
