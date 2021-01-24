@@ -123,7 +123,7 @@ sections:
   - section_id: lorem-ipsum
     title: Consultancy Service Partners
     subtitle: ''
-    background: gray
+    background: white
     pricing_plans:
       - title: ''
         subtitle: ''
