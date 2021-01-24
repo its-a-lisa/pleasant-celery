@@ -22,10 +22,6 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
     reviews:
-      - author: About
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Code of Conduct
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
