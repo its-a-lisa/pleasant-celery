@@ -58,7 +58,7 @@ sections:
         subtitle: Tool Group
         price: ''
         details: ''
-        highlight: false
+        highlight: true
         actions: []
         type: pricing_plan
   - section_id: lorem-ipsum
