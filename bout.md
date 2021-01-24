@@ -18,7 +18,7 @@ sections:
     title: ''
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: ''
+      - title: Partners
         subtitle: ''
         price: Members
         details: |-
