@@ -9,7 +9,11 @@ sections:
     type: section_pricing
     background: gray
     title: Members
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      The Vendors and Operators below have, unofficially and without any
+      legally-binding commitment, endorsed the principles of Continuous
+      Authorization, and have agreed to collaborate on the development of the
+      OpenControl schema, tools and best practices.
     pricing_plans:
       - title: 'Pivotal, Inc.'
         subtitle: Pivotal Cloud Foundry
