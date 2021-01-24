@@ -1,7 +1,7 @@
 ---
 title: Pricing
 meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+meta_description: lorem-ipsuma
 canonical_url: lorem-ipsum
 no_index: false
 sections:
