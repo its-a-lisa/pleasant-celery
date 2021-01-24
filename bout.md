@@ -6,7 +6,7 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - section_id: About OpenCtonrol
-    title: lorem-ipsum
+    title: Our Philosophy
     content: >-
       ## Lorem ipsum
 
