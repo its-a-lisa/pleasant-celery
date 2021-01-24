@@ -178,7 +178,7 @@ sections:
         highlight: false
         actions:
           - label: Codethink
-            url: lorem-ipsum
+            url: 'https://www.codethink.co.uk/'
             style: link
             has_icon: false
             icon: arrow-left
