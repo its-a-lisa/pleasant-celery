@@ -46,7 +46,7 @@ sections:
             url: 'https://github.com/govready/govready/'
             style: primary
         highlight: true
-  - section_id: open-control-schema
+  - section_id: Project Descriptions
     title: ''
     subtitle: ''
     background: gray
