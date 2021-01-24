@@ -68,7 +68,7 @@ sections:
         highlight: false
         actions:
           - label: Go to repo
-            url: lorem-ipsum
+            url: 'https://github.com/opencontrol/RedHat'
             style: link
             has_icon: false
             icon: arrow-left
