@@ -64,14 +64,14 @@ footer:
         - label: About Us
           url: /about
           style: link
+        - label: Projects
+          url: /projects
+          style: link
         - label: Blog
           url: /blog
           style: link
         - label: Sign Up
           url: /signup
-          style: link
-        - label: Projects
-          url: /projects
           style: link
     - type: footer_nav
       title: Community
