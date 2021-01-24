@@ -42,7 +42,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: Members
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
