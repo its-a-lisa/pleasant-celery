@@ -190,7 +190,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Pivot
             url: lorem-ipsum
             style: link
             has_icon: false
