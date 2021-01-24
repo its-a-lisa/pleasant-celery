@@ -5,7 +5,7 @@ meta_description: ''
 canonical_url: projects
 no_index: false
 sections:
-  - section_id: Members
+  - section_id: Projects
     title: Projects
     content: |
       ##### Projects that contribute towards the mission of OpenControl.
