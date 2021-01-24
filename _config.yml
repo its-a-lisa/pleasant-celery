@@ -70,7 +70,7 @@ footer:
         - label: Sign Up
           url: /signup
           style: link
-        - label: Contact
+        - label: Projects
           url: /contact
           style: link
     - type: footer_nav
