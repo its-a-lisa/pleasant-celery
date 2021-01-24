@@ -23,7 +23,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: Alyssa Feola
-        subtitle: Community Leader
+        subtitle: Community Group
         price: ''
         details: ''
         actions:
