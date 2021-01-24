@@ -43,7 +43,7 @@ sections:
             style: secondary
       - title: 'Docker, Inc.'
         subtitle: Docker Datacenter
-        price: lorem-ipsum
+        price: ''
         details: >
           Enterprise Containers-as-a-Service (CaaS) platform for developers and
           IT operations
