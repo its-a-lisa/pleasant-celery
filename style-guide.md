@@ -1,9 +1,6 @@
 ---
 title: Philosophy
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: A YAML-Powered Antidote To Bureaucracy
 layout: page
 ---
 ## It’s a powerfully simple idea.
