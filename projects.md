@@ -140,7 +140,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: Open
+      - title: Open Control Schema
         content: "By adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. You can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n"
         image_alt: lorem-ipsum
         actions: []
