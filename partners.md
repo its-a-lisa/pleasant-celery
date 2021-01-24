@@ -22,12 +22,7 @@ sections:
       - title: Amazon Web Services (via 18F)
         subtitle: Amazon Web Services
         price: ''
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: ''
         highlight: true
         actions:
           - label: Order Now
