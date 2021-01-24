@@ -1,8 +1,6 @@
 ---
 title: 'GoComply with OSCAL & FedRAMP :: Introduction to OpenControl'
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: "This is the first post of the\_GoComply series\_that introduces open source pipeline to produce and process OSCAL and FedRAMP documents."
 author: _data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/9_thumb.jpg
