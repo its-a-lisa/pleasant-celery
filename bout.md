@@ -2,7 +2,7 @@
 title: About OpenControl
 meta_title: ''
 meta_description: lorem-ipsuma
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 sections:
   - section_id: About OpenCtonrol
