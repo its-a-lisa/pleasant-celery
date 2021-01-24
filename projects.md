@@ -141,17 +141,7 @@ sections:
     background: gray
     features:
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "By adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. You can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n"
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
