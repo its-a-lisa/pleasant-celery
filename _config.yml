@@ -40,7 +40,7 @@ header:
     - label: Sign Up
       url: /signup
       style: primary
-    - label: faq
+    - label: FAQ
       url: faq
       style: link
       has_icon: false
