@@ -124,7 +124,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: OpenShift Online
+          - label: Security Control Knowledge Graph (sckg)
             url: lorem-ipsum
             style: primary
             has_icon: false
