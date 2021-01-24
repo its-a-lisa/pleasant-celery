@@ -70,9 +70,6 @@ footer:
         - label: Blog
           url: /blog
           style: link
-        - label: Sign Up
-          url: /signup
-          style: link
     - type: footer_nav
       title: Community
       nav_links:
