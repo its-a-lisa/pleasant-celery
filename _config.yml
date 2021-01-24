@@ -19,8 +19,8 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Members
-      url: 'about#members'
+    - label: Projects
+      url: projects
       style: link
       has_icon: false
       icon: arrow-left
@@ -28,8 +28,11 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Projects
-      url: projects
+    - label: Participate
+      url: /participate
+      style: link
+    - label: Members
+      url: 'about#members'
       style: link
       has_icon: false
       icon: arrow-left
@@ -46,9 +49,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: Participate
-      url: /participate
-      style: link
   logo_img: images/oclogo_small.png
 footer:
   sections:
@@ -56,43 +56,47 @@ footer:
       image: images/thoughtful-goose.png
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: |
+        Security, not obsurity
     - type: footer_nav
-      title: Company
+      title: OpenControl
       nav_links:
         - label: About Us
           url: /about
           style: link
+        - label: Projects
+          url: /projects
+          style: link
         - label: Blog
           url: /blog
-          style: link
-        - label: Sign Up
-          url: /signup
-          style: link
-        - label: Contact
-          url: /contact
           style: link
     - type: footer_nav
       title: Community
       nav_links:
-        - label: Twitter
-          url: 'https://twitter.com/'
-          style: link
-          has_icon: true
-          icon: twitter
-          icon_position: left
-        - label: LinkedIn
-          url: 'https://www.linkedin.com/'
-          style: link
-          has_icon: true
-          icon: linkedin
-          icon_position: left
         - label: GitHub
-          url: 'https://github.com/'
+          url: 'https://github.com/opencontrol/discuss'
           style: link
           has_icon: true
           icon: github
           icon_position: left
+        - label: Contact
+          url: /contact
+          style: link
+          has_icon: true
+          icon: envelope
+          icon_position: left
+          new_window: false
+          no_follow: false
+          type: action
+        - label: Participate
+          url: /participate
+          style: link
+          has_icon: true
+          icon: arrow-right
+          icon_position: left
+          new_window: false
+          no_follow: false
+          type: action
     - type: footer_form
       title: Subscribe
       content: Stay up to date with our latest developments.
@@ -110,6 +114,15 @@ footer:
     - label: Privacy Policy
       url: /privacy-policy
       style: link
+    - label: Code of Conduct
+      url: privacy-policy
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
     href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"

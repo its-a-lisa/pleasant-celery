@@ -1,11 +1,11 @@
 ---
-title: Partners
-meta_title: ''
+title: Projects
+meta_title: projects
 meta_description: ''
-canonical_url: partners
+canonical_url: projects
 no_index: false
 sections:
-  - section_id: Members
+  - section_id: Projects
     title: Projects
     content: |
       ##### Projects that contribute towards the mission of OpenControl.
@@ -25,17 +25,31 @@ sections:
         details: ''
         actions:
           - label: Learn More
-            url: 'https://github.com/opencontrol/cf-compliance'
+            url: /projects/opschema
             style: primary
         highlight: true
       - title: Compliance Masonary
         subtitle: Compliance Framework Agnostic
         price: ''
-        details: ''
+        details: >
+          Compliance Masonry simplifies the process of certification
+          documentation by providing:
+
+
+          \-- a data store for certifications, standards, and the individual
+          system components.
+
+
+          \-- a way for projects to edit existing files and also add new control
+          files for their applications and organizations.
+
+
+          \-- a pipeline for generating clean and standardized certification
+          documentation.
         highlight: true
         actions:
           - label: Learn More
-            url: 'https://github.com/opencontrol/aws-compliance'
+            url: /projects/compliancemasonry
             style: primary
       - title: FISMA Ready
         subtitle: FISMA Specific
@@ -43,54 +57,9 @@ sections:
         details: ''
         actions:
           - label: Learn More
-            url: 'https://github.com/govready/govready/'
+            url: projects/fismaready
             style: primary
         highlight: true
-  - section_id: Project Descriptions
-    title: ''
-    subtitle: ''
-    background: gray
-    features:
-      - title: Open Control Schema
-        content: "By adopting a standard approach to documenting “controls” (whether Technical, Operational, or Management) we can rapidly build a community of vendors and operators. You can see\_[the current (and evolving) OpenControl schema here](https://github.com/opencontrol/schemas).\n"
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-      - title: Compliance Masonary
-        content: >
-          Compliance Masonry simplifies the process of certification
-          documentation by providing:
-
-
-          *   a data store for certifications (ex FISMA), standards (ex
-          NIST-800-53), and the individual system components (ex AWS-EC2).
-
-
-          *   a way for government projects to edit existing files and also add
-          new control files for their applications and organizations.
-
-
-          *   a pipeline for generating clean and standardized certification
-          documentation.
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-      - title: FISMA Ready
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-    type: section_features
   - section_id: lorem-ipsum
     title: Related non-OpenControl Projects
     subtitle: ''

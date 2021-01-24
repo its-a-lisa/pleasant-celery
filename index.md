@@ -11,7 +11,7 @@ sections:
       auditing security controls.
     actions:
       - label: Learn More
-        url: /bout
+        url: /about
         style: primary
   - section_id: features
     type: section_features
@@ -52,10 +52,10 @@ sections:
     title: Latest Posts
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: It’s a set of tools and best practices.
+    subtitle: Powered by schemas and community.
     actions:
-      - label: Get Started
+      - label: Join the community
         url: /signup
         style: primary
 meta_title: Stackbit Azimuth Theme
