@@ -40,7 +40,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: ''
         subtitle: For very large businesses
         price: Members
         details: |-
