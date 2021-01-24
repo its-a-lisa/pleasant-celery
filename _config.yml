@@ -11,7 +11,7 @@ header:
   has_nav: true
   nav_links:
     - label: About
-      url: bout
+      url: about
       style: link
       has_icon: false
       icon: arrow-left
@@ -29,7 +29,7 @@ header:
       no_follow: false
       type: action
     - label: Projects
-      url: projects
+      url: lorem-ipsum
       style: link
       has_icon: false
       icon: arrow-left
