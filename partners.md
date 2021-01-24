@@ -169,7 +169,7 @@ sections:
             type: action
         type: pricing_plan
     type: section_pricing
-  - section_id: lorem-ipsum
+  - section_id: Operator Parne
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
