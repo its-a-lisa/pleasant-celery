@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: About OpenControl
 meta_title: lorem-ipsum
 meta_description: lorem-ipsuma
 canonical_url: lorem-ipsum
