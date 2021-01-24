@@ -21,7 +21,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - label: Got to repo
-            url: /signup
+            url: 'https://github.com/opencontrol/cf-compliance'
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
