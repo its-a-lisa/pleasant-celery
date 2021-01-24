@@ -55,7 +55,7 @@ sections:
     title: It’s a set of tools and best practices.
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Join the community
         url: /signup
         style: primary
 meta_title: Stackbit Azimuth Theme
