@@ -41,7 +41,7 @@ sections:
           - label: Go to repo
             url: 'https://github.com/govready/govready/'
             style: secondary
-      - title: lorem-ipsum
+      - title: 'Docker, Inc.'
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
