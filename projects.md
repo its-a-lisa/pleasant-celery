@@ -121,7 +121,7 @@ sections:
         highlight: false
         actions:
           - label: RiskRedux
-            url: lorem-ipsum
+            url: 'https://risk-redux.io/'
             style: primary
             has_icon: false
             icon: arrow-left
