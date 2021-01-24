@@ -1,5 +1,5 @@
 ---
-title: FISMAReady
+title: OpenControl Schema
 meta_title: fisama-ready
 meta_description: lorem-ipsum
 canonical_url: fismaready
