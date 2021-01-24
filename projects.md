@@ -72,7 +72,7 @@ sections:
         highlight: false
         actions:
           - label: GoComply
-            url: 'https://www.codethink.co.uk/'
+            url: 'https://github.com/GoComply'
             style: secondary
             has_icon: false
             icon: arrow-left
