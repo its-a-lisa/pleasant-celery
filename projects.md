@@ -128,7 +128,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: Operator Partners
-    title: Non-related non-OpenControl Projects
+    title: Shows that we're watching
     subtitle: ''
     background: gray
     pricing_plans:
