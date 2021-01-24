@@ -128,7 +128,7 @@ sections:
         actions:
           - label: Pivotal Web Services
             url: 'https://run.pivotal.io/'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: left
