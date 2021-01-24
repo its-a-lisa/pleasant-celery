@@ -42,7 +42,7 @@ sections:
         price: ''
         details: ''
         actions:
-          - label: Go to repo
+          - label: Learn More
             url: 'https://github.com/govready/govready/'
             style: primary
         highlight: true
