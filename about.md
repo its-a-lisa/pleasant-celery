@@ -59,11 +59,8 @@ sections:
     faq_items:
       - question: What license is this under?
         answer: "The code portions are all licensed under Apache 2.0, except what has been contributed directly by the US Government, which is in the public domain within the US. Internationally, the US Government licenses its code under\_[Creative Commons Zero 1.0](https://github.com/opencontrol/compliance-masonry/blob/master/LICENSE.md). All written content has been licensed as\_[Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/).\n"
-      - question: Aliquam eget purus ante?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+      - question: What regulations can I use this for?
+        answer: "The principles behind OpenControl can be applied to any regulatory environment, or in fact any operational environment with running systems and software. Currently, the community repositories include FedRAMP Low and Moderate definitions using the NIST 800-53 certification, as well as a newly defined\_[Lightweight Authority to Operate](https://gsablogs.gsa.gov/innovation/2014/12/10/it-security-security-in-an-agile-development-cloud-world-by-kurt-garbars/)\_(LATO) NIST 800-53 baseline from the\_[General Services Administration](http://gsa.gov/)\_(GSA).\n"
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
