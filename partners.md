@@ -19,7 +19,7 @@ sections:
           - label: Got to repo
             url: 'https://github.com/opencontrol/cf-compliance'
             style: secondary
-      - title: Professional
+      - title: Amazon Web Services (via 18F)
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-
