@@ -68,20 +68,13 @@ sections:
           resources. OpenControl will be a set of tools that will finall allow
           compliance to be directly incorporated to a continuous integration and
           deployment framework.
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - question: Why did you use Concourse?
+        answer: >
+          There are a lot of great continuous integration tools out there,
+          including Jenkins, Travis, Bamboo, Wercker, and more. OpenControl
+          pipelines can be defined using any CI tool. We felt that the
+          “dependency-injection” style of job and resource declaration in
+          Concourse made it a good fit for the semantics of OpenControl.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
