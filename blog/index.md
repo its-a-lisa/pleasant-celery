@@ -1,5 +1,5 @@
 ---
 title: Blog
 layout: blog
-no_index: true
+no_index: false
 ---
