@@ -22,7 +22,7 @@ sections:
     title: Active Contributors
     subtitle: ''
     pricing_plans:
-      - title: 'Pivotal, Inc.'
+      - title: Alyssa Feola
         subtitle: Pivotal Cloud Foundry
         price: ''
         details: ''
