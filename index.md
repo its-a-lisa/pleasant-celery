@@ -27,7 +27,7 @@ sections:
           collectively or others have developed and the community swears by.
         actions:
           - label: Learn More
-            url: /features
+            url: /projects
             style: secondary
             has_icon: true
             icon: arrow-right
