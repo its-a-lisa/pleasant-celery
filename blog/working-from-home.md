@@ -11,19 +11,28 @@ image: images/9.jpg
 image_alt: People in a conference room
 layout: post
 ---
+This is the first post of the [GoComply series](http://isimluk.com/tags/gocomply/) that introduces open source pipeline to produce and process OSCAL and FedRAMP documents. If You want to achieve continuous compliance at the lowest possible cost, [GoComply project](https://github.com/gocomply) is here to help. With GoComply, You will rely on open source tooling and your data will be stored in standardized formats and thus you will have a enough head room and knee room to achieve your organizational goals.
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+## OpenControl :: The File Format
 
-## Advantages and Disadvantages 
+So, let’s get started with the introduction of one simple file format that you can use to store your compliance related data. [OpenControl](https://open-control.org/) calls itself [A YAML-Powered Antidote To Bureaucracy](https://open-control.org/philosophy/), it is file format developed and adopted by dozen’s of industry [partners](https://open-control.org/members/). OpenControl presents this simple yet powerful idea that compliance data should not really be stored in excel sheet print outs, rather the data should be machine and human readable to lower the cost of compliance.
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+OpenControl Format is so easy to understand, that I won’t be wasting your time describing it. Instead, let me just reference one OpenControl document that contains Control Responses to NIST-800-53 for [OpenShift Container Platform 4](https://github.com/ComplianceAsCode/redhat/blob/7532d895f08c63f8ca592ebde5caff4452863f90/build/openshift-container-platform-4/component.yaml).
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+As we will see later in the GoComply series, OpenControl file format is advantageous for policy writing. The format is so easy to comprehend. Not only that security specialist don’t need to be trained to write it, but more importantly security specialist won’t be bothered too much to write it as compared to some other formats.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+## OpenControl :: The Tools
 
-## Types Of Work
+Beyond the file format, [OpenControl project](https://github.com/opencontrol/) provides the open source tools to show case use of the OpenControl files and repositories. Important piece of the puzzle is project called [Compliance Masonry](https://github.com/opencontrol/compliance-masonry). It is a library to manipulate OpenControl files and it comes with a simple command-line tool to show case its capabilities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+Exemplary usage: Let’s pull OpenControl data with all the dependencies for Red Hat products. We will use ready made gocomply container that contains open-control masonry command. We will mount local directory to be able to see the results on the host.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+## OpenControl :: The data
+
+Multiple organizations published their compliance data in OpenControl format on the internet, many of those are published under Public Domain license. The [OpenControl Github Organization](https://github.com/opencontrol/) hosts such projects in a shared space others are linked from the project website.
+
+I have spent some time in the repository of Compliance data for Red Hat products. Enterprising users are advised to look at the Makefile and github actions to see what best practices we have developed for OpenControl authorship.
+
+## Summary
+
+Today, we have learned about simple & open format for storing compliance data, the open source tools to process the format, and exemplary open source projects using these.
