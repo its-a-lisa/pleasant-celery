@@ -47,7 +47,7 @@ header:
       no_follow: false
       type: action
     - label: About
-      url: lorem-ipsum
+      url: about
       style: link
       has_icon: false
       icon: arrow-left
