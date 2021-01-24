@@ -42,6 +42,7 @@ sections:
           - label: Go to repo
             url: 'https://github.com/govready/govready/'
             style: secondary
+        highlight: true
       - title: 'Docker, Inc.'
         subtitle: Docker Datacenter
         price: ''
