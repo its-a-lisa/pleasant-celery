@@ -34,7 +34,7 @@ sections:
         details: ''
         highlight: true
         actions:
-          - label: Go to repo
+          - label: Learn More
             url: 'https://github.com/opencontrol/aws-compliance'
             style: primary
       - title: FISMA Ready
