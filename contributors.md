@@ -31,7 +31,7 @@ sections:
             url: 'https://github.com/opencontrol/cf-compliance'
             style: primary
         highlight: true
-      - title: Amazon Web Services (via 18F)
+      - title: Josh McKenty
         subtitle: Amazon Web Services
         price: ''
         details: ''
