@@ -1,7 +1,7 @@
 ---
 title: Partners
 meta_title: ''
-meta_description: lorem-ipsum
+meta_description: ''
 canonical_url: lorem-ipsum
 no_index: false
 sections:
