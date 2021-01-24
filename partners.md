@@ -186,7 +186,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: CivicActions
             url: 'https://civicactions.com/'
             style: link
             has_icon: false
